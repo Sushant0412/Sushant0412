@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushant0412
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning FSWB Course from Devtow
+- 🌱 I’ve completed FSWD Course from Devtown
 - 📫 You can reach me on tulasisushant04@gmail.com
 
 <!---
