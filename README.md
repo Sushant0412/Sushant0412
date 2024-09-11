@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sushant0412
-- 👀 I’m interested in Coding
-- 🌱 I’ve completed FSWD Course from Devtown
+- 👋 Hi, I’m Sushant
+- 👀 I’m interested in Coding/DSA
+- 🏆 I’ve completed Web Development
+- 🌱 Learning Blockchain Technology
 - 📫 You can reach me on tulasisushant04@gmail.com
 
 <!---
