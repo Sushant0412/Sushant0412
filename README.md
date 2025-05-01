@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Sushant
 
-- 👀 I’m interested in Coding and DSA
-- 🏆 I’ve completed Web Development
-- 🌱 Currently learning Blockchain Technology
-- 📫 Reach me at: tulasisushant04@gmail.com
+- 👀 I’m interested in Coding and DSA  
+- 🏆 I’ve completed Web Development  
+- 🌱 Currently learning Blockchain Technology  
+- 📫 Reach me at: tulasisushant04@gmail.com  
 
 ---
 
