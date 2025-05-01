@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant0412&show_icons=true&theme=gruvbox)
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant0412&theme=gruvbox)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant0412&layout=compact&theme=gruvbox)
 
