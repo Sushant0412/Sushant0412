@@ -27,6 +27,14 @@
 
 ---
 
+### 📗 GeeksforGeeks Stats
+
+![GFG Stats](https://gfg-stats-api.herokuapp.com/tulasisushant04)
+
+![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=tulasisushant04)
+
+---
+
 <!---
 Sushant0412/Sushant0412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
