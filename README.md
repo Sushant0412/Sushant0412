@@ -9,21 +9,21 @@
 
 ### 📊 GitHub Stats
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant0412&show_icons=true&theme=radical)
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant0412&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant0412&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant0412&layout=compact&theme=gruvbox)
 
 ---
 
 ### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sushant0412?theme=dark)](https://leetcode.com/tulasisushant04)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tulasisushant04?theme=gruvbox)](https://leetcode.com/u/tulasisushant04/)
 
 ---
 
 ### 🏅 LeetCode Badges
 
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Sushant0412)](https://leetcode.com/tulasisushant04)
+[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=tulasisushant04)](https://leetcode.com/u/tulasisushant04/)
 
 ---
 
