@@ -29,9 +29,9 @@
 
 ### 📗 GeeksforGeeks Stats
 
-![GFG Stats](https://gfg-stats-api.herokuapp.com/tulasisushant04)
+![GFG Stats](https://gfg-stats-api.herokuapp.com/sushant0412)
 
-![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=tulasisushant04)
+![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=sushant0412)
 
 ---
 
