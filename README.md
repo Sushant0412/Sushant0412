@@ -27,11 +27,11 @@
 
 ---
 
-### 📗 GeeksforGeeks Stats
+### 🧠 GeeksforGeeks Stats
 
-[![GFG Stats](https://gfg-stats-api.herokuapp.com/sushant0412)](https://www.geeksforgeeks.org/user/sushant0412/)
+![GFG Stats](https://gfg-stats-api.herokuapp.com/sushant0412)
 
-[![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=sushant0412)](https://www.geeksforgeeks.org/user/sushant0412/)
+![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=sushant0412)
 
 ---
 
