@@ -29,7 +29,7 @@
 
 ### 📗 GeeksforGeeks Stats
 
-[![GFG Stats Card](https://gfg-stats-card.vercel.app/api?username=sushant0412)](https://www.geeksforgeeks.org/user/sushant0412/)
+[![GFG Stats Card](https://gfgstatscard.vercel.app/api?username=sushant0412)](https://www.geeksforgeeks.org/user/sushant0412/)
 
 ---
 
