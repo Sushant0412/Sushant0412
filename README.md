@@ -15,12 +15,6 @@
 
 ---
 
-### 📗 GeeksforGeeks Stats
-
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/sushant0412?theme=light)](https://www.geeksforgeeks.org/user/sushant0412/)
-
----
-
 ### 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/tulasisushant04?theme=gruvbox)](https://leetcode.com/u/tulasisushant04/)
